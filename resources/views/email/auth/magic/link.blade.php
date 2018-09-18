@@ -1,0 +1,1 @@
+Tu link es el :  <a href="{{ $link }}">{{ $link }}</a>
